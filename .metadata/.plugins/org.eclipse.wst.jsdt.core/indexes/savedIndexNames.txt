@@ -1,9 +1,4 @@
 INDEX VERSION 1.4+D:\green_workspace\web_lab\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-78182771.index
-3863403967.index
-3690499648.index
-446315808.index
-2665312357.index
+1297013223.index
+3745914696.index
 3062908375.index
-3993931548.index
-542683908.index
